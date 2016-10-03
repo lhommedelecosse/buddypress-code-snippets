@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 add_action( 'woocommerce_after_order_notes', 'wc4bp_custom_checkout_field' );
 
 function wc4bp_custom_checkout_field( $checkout ) {
