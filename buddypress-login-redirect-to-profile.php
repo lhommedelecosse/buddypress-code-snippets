@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 /*Make sure profile is default component*/
 define('BP_DEFAULT_COMPONENT','profile');
 
