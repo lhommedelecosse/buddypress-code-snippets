@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 add_filter('logout_url',"bpdev_logout_url",100,2);
 function bpdev_logout_url( $logout_url, $redirect) {
     //simply ignore the redirect and set it to the main domain
