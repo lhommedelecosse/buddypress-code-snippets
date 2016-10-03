@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 // Add the Membership sub-navigation menu item to BuddyPress' Profile navigation array
 add_action( 'bp_setup_nav', 'my_woo_info_nav' );
 function my_woo_info_nav() {
