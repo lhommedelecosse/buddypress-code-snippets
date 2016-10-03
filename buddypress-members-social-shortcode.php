@@ -1,3 +1,5 @@
+<?php  // <~ do not copy the opening php tag
+
 add_shortcode('members_social','members_social_func');
 function members_social_func($atts=array()){
 global $bp;
