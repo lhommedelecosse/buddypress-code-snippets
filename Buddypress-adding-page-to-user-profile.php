@@ -1,4 +1,3 @@
-@@ -0,0 +1,48 @@
 <?php
 /**
  * Plugin Name: BP Add Page
