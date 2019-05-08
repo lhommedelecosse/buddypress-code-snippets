@@ -1,2 +1,2 @@
-# collabrating
-Collabrating Website
+# buddypress
+Buddypress code snippets
